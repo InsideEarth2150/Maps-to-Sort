@@ -1,0 +1,12 @@
+Autor:		Kurgan	
+erstellt am:	16.08.00
+Name:		Lost Temple
+
+Terrain:	Vulkan
+Spielerzahl:	6
+Grösse:		mittel
+Ressourcen:	
+Schiffe:	nein
+Tunnel:		ja
+
+

@@ -1,0 +1,31 @@
+The Crater Read Me File
+
+This map has multiple play scenarios.
+
+The first is an all out 8 player game of "death match" - do not use players 9 - 13
+     Optional players 9-12 can be computers (poor for players due to terrain)
+The second is team play 1 & 5, 2 & 6, 3 & 7, 4 & 8 or odds VS evens (up to 8)
+     plus you still can have 4 computers for 9-12
+The third is 1 vs. 12; he starts out in the middle of the crater. Excellent to test your
+     skills with.
+
+The Crater is surrounded by a river (caused by the meteorite). But it is rich in deposits
+     both around it and in the center.
+The corners of the map are used for possible computer players, the deposits and much of
+     land are cover by woods here.
+The resources are plenty with out being to much. Many are hidden in forests, so blowing away 
+     trees is a necessity.
+
+Have Fun.
+
+Lord Greywolf
+lord_greywolf_@hotmail.com
+(note 2 underscores)
+
+Brought to you by Country Cyber Cafe of Marine City, MI
+
+This map is copyrighted by Country Cyber Cafe.
+You may distribute freely, al long as this file remains with it.
+You may only modify for personal us. The modify file may not be
+distributed with out the original files also being sent with it.
+Including this read me file.

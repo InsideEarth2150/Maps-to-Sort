@@ -1,0 +1,14 @@
+Name:		Domination
+Terrain:	Frühling
+Spielerzahl:	4
+Grösse:		mittel
+Ressourcen:	652250
+Schiffe:	ja
+
+Ein Level für 4 ED/UCS´ler die satte Seeschlachten mögen. Diesmal erreicht Ihr den Gegner nur durch Lufteinheiten und/oder Schiffe.
+Habe das Level speziell für 2v2 ED/UCS kreiert. Jeder Spieler hat anfangs seine Nische mit einem ausreichenden Feld, die Insel in der Mitte beherbergt weitere üppige Ressourcen.
+
+Viel Spass.
+
+By
+Kurgan

@@ -1,0 +1,19 @@
+Krush Kill n Destroy
+--------------------
+
+Gemacht von: TankCom
+Erstellt am: 29.11.1999
+Version: 2.3
+Spieler: 2-4
+Kartengröße: Mittel
+
+Beschreibung: Aufbauen, angreifen, siegen oder auch nicht.
+              Der Name sagt eigentlich alles. Viel Spass!
+              - Nein ich wußte natürlich nicht dass es ein
+                bis zwei Spiele gibt die auch so heißen.
+
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+
+--------------------
+Please do not modify or remove this readme-file! Thanks!

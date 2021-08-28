@@ -1,0 +1,12 @@
+Karte: Lunar Party
+Autor: Mr Evil
+Rohstoffe: viel
+Kartengröße: sehr groß
+Wasser: keins
+Typ: Mond
+schwieriges Gelände: viel
+Spieler: 6
+Extragroße Karte auf dem Mond. Die Startpositionen liegen alle am Rand mit wenigen Rohstoffen. Sehr große 
+Resourcen befinden sich zwischen den Basen und vor allem in der Mitte. 4 Spieler starten in den Ecken
+der Karte und 2 in der Mitte, die es dafür einfacher haben an die größeren Vorkommen zu gelangen. Alle 
+Spieler sind genau wie die Rohstoffvorkommen von Gebirgen geschützt.

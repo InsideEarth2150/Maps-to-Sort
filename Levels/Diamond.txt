@@ -1,0 +1,5 @@
+Designer: KDW
+Kartenname: Diamond
+Spieler:1-6
+
+Auf dieser Map sind mal wieder vor allem Schiffe und Flugzeuge wichtig. Jeder Spieler beginnt in einer eigenen Bucht, in der jeweils genügend Rohstoffe vorhanden sind. Zusätzlich erhält man eine Tunnel-Karte, mit deren Hilfe man in der Mitte der Map bis zu 200000 Credits erkämpfen kann. Diese Insel kann durch errichten von Brücken erreicht werden. An jedem Karten-Eck ist ausserdem noch eine Insel mit ca. 50000 Credits

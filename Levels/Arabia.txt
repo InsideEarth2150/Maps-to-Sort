@@ -1,0 +1,17 @@
+Levelname: ( 4)World_Arabia Version 1.2
+
+Oberflächentyp: Wüste
+Größe: Groß
+Rohstoffe: 760000
+Schiffe: ja
+Spieler: 4
+
+Die beiden Dateien einach ins Levels-Verzeichnis kopieren.
+Standardmäßig in C:\Programme\Topware\Earth2150\Levels
+
+Viel Spaß damit und viel Erfolg beim Weltherrschaftsmodus!
+
+
+[UEF]SoulReaver
+
+P.S. Ich bin damit einverstanden, daß diese Map frei veröffentlicht wird.

@@ -1,0 +1,36 @@
+Map Specifications and Author Details .
+***************************************************
+Name : Proto Canyon	    
+Author : Utopia_Nation                 
+E-mail : utopia_nation@hotmail.com
+Map Size : Medium
+Max Players : 4
+Completion Date : 11th July 2000
+***************************************************
+Zip file Contents .
+***************************************************
+Zip file contains : Proto_Canyon.Ind
+                    Proto_Canyon.Mis
+                    Proto_Canyon.txt
+***************************************************
+Map Information .
+***************************************************
+Thanx for downloading my map this is probably my favourite one at 
+the moment .
+It’s set in the desert and i have tried to make it as 3D as possible .
+There is a river which runs along the left and top which has paths 
+and mountains on all sides .
+The paths fork into cliff side passes which should be good for
+ambushes and attacks from above .
+There is also a base in the middle which has a railroad which goes 
+north over the river .
+This game would make for a good tactical game due to the maze 
+like way it is .
+***************************************************
+Installation .
+***************************************************
+Extract the files into Earth 2150 levels folder . 
+C:\Program Files\SSI\Earth 2150\Levels ( C: = Harddrive ) .
+***************************************************
+I am working on a lot of maps due to this amassing editor so there 
+should be more maps on the way .

@@ -1,0 +1,19 @@
+Brückenkopf
+-----------
+
+Gemacht von: TankCom
+Erstellt am: 11.11.1999
+Version: 1.7
+Spieler: 2 (Vorgabe)
+Kartengröße: Klein
+
+Beschreibung: Diese Karte soll die erste/zweite Mission von C&C
+	      Tiberium Konflickt darstellen sie hat ein paar
+	      Money Packs und ist sehr sehr einfach !
+
+
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+
+--------------------
+Please do not modify or remove this readme-file! Thanks!

@@ -1,0 +1,42 @@
+Map Name - Jungle Fatigue
+FOR: Earth 2150
+Players - 15
+Size - Huge	
+Tileset - Spring		
+Tunnel Layer - Yes
+Water - Yes
+Difficult terrian - Periphery is forested. Cliffs.  Steep inclines.
+Resources - High
+Need for expansion - Player's discretion
+
+Created by Chip
+Date of completion: 28 October, 2000
+---------------------
+
+----------------------
+
+NOTES:  Resource fields have been placed neareach start point, though the deposits are small.  
+I have included enough to start each faction. You will find additional resources, as well as
+other game sustaining items throughout the map. Each player has ample chance to claim what 
+is needed to win.  This is the first of a three map set. 
+
+
+You MUST have at least 128 MB(recommended 192MB) RAM and a video card with 32MB video RAM in 
+order to see all of the features on this map.  Those playing this map, with less than that listed, 
+may experience frequent crashes.  
+This map is a hog, as far as system resources go.  For first play, I would take it very slow, and just
+travel around the map a little so that you know where things are, and how to get around.  If you feel
+like it, open it up in the editor and have a look at what's there.  That way, when you play, you can 
+see if everything is showing up. 
+
+How-to's will be posted for some of the map features on my map shots page.  You can get there by
+following the link(s) I've placed in my entries in Earth Orbiter News(http://everything.at/earth2150).
+ 
+
+----------------------
+Installation
+JF_MAP.zip contains the .lnd/.mis files.
+To install the map, put the .Ind and .mis files in the "earth2150\levels"
+directory. You may have to create a levels directory in the earth2150 folder. 
+----------------------
+Comments or questions may be directed to Chip at dsa9@hotmail.com

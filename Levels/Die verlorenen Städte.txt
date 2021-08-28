@@ -1,0 +1,19 @@
+Name: Die verlorenen Städte
+eigenschaften: 
+Typ: Sommer
+Grösse: Groß
+Ressourcen: 3579000
+
+Erklährung:
+In einer erst kürzlich entdeckten Gegend nahe der USA wurden einige Ausgrabungen getätigt
+und 2 neue Städte freigelegt. Die Ressourcen sind Gleichmässig verteilt und wenn man seinen
+Zerstörungstrieb über die Städte kommen lässt wird sich die eine oder andere Million CR noch finden lassen.
+
+Gelände: leichtbefahrbar
+Wasser:  27%
+Expansion(wenn ausbreitungsmöglichkeiten der basis gemeint):ausgezeichnet
+vorteile: LC! weil sie nicht den kleinen Fluss in der mitte der map berücksichtigen muss
+Ressourcen:(siehe oben)
+SpielerZahl:2 (mehr verkraftet das EN sowieso nicht)
+Minikarte: nicht möglich
+Spiel: The Moon Project

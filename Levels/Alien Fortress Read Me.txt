@@ -1,0 +1,27 @@
+Alien Fortress Read Me File
+
+This map is set up for 1 person to challange up to 12 other players (computer or Human)
+It is a huge map. In the Center is where the Alien Fortress was discovered by a research team; they even left their equipment behind for you (some buildings & units). The building
+were found to be useless (to complex to opperate). But the units left there were in usable
+shape and are at your disposal. But the enemy found out and have sent 12 squads to try to
+stop you. The aliens even left some undiscovered wealth for you to find.
+You must use map defaults to see the alien fortress and have the additional units.
+by the way the alien fortress building are yours to defend also, if destroyed, they
+count against your score.
+
+This was done by giving LC building to a UCS player. The game won't let you use the buildings.
+
+Optional 6 vs 6 game odds vs. evens - no number 1 player.
+
+
+Lord Greywolf
+lord_greywolf_@hotmail.com
+(note 2 underscores)
+
+Brought to you by Country Cyber Cafe of Marine City, MI
+
+This map is copyrighted by Country Cyber Cafe.
+You may distribute freely, al long as this file remains with it.
+You may only modify for personal us. The modify file may not be
+distributed with out the original files also being sent with it.
+Including this read me file.

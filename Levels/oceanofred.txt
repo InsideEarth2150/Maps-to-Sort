@@ -1,0 +1,32 @@
+Map Name - "(8) The Badlands"
+Author - Faceless Clock
+E-mail - cmsmith@one.net
+Tileset - Spring
+Subtype - Mountain
+Size - Medium
+Players - 4
+Unzipped - 20kb
+Zipped - 17kb
+Tunnel Layer - yes
+Water - Yes
+Difficult terrian - some
+Resources - much
+water - much
+Need for expansion - much
+
+Made by Faceless Clock
+
+---------------------
+
+----------------------
+Notes:
+Players fight in a island area. A resource rich island is in the middle. Boats can be very 
+useful.
+----------------------
+Installation
+To install the map, put the .Ind and .mis files in the C:\programfiles\SSI\earth2150\levels
+directory. You may have to create a levels directory in the earth2150 folder. I'm not sure,
+i didn't check it out before i made the map.
+----------------------
+Feedback
+If you have comments or questions about the map, e-mail me at cmsmith@one.net

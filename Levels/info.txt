@@ -1,0 +1,10 @@
+Name:		WS's Mini Islands
+Creator:	[TOD]whitedeath
+
+Daten:
+Frühlingsanfang; Groß; 4801000 Rohstoffe; 6 Spieler
+- WD's Mini Islands ist ein, wie der Name schon sagt,
+Insellevel. Jeder Spieler bekommt eine Insel.
+Doch das ist nicht alles. In der Mitte befindet sich
+der große Schatz! Auf dieser Map kann mit jeder Rasse
+gespielt werden! -

@@ -1,0 +1,12 @@
+Autor:		Kurgan	
+erstellt am:	27.08.00
+Name:		Rest in Peace
+
+Terrain:	Vulkan	
+Spielerzahl:	8
+Grösse:		gross
+Ressourcen:	4.9 mill
+Schiffe:	nein
+Tunnel:		ja
+
+

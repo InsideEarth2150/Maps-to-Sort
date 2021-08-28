@@ -1,0 +1,36 @@
+Map Specifications and Author Details .
+***************************************************
+Name : Kwai Peaks	    
+Author : Utopia_Nation                 
+E-mail : utopia_nation@hotmail.com
+Map Size : Huge 
+Max Players : 10
+Completion Date : 10th July 2000
+***************************************************
+Zip file Contents .
+***************************************************
+Zip file contains : Kwai_Peaks.Ind
+                          Kwai_Peaks.Mis
+                          Kwai_Peaks.txt
+***************************************************
+Map Information .
+***************************************************
+Thanx for downloading my map it’s the third map i have made but 
+the first i have sent to a website .
+It’s a huge map set in spring surrounded on all sides by mountains
+with a river running from the bottom left up to the top right .
+There are two bases next to the river each with there own railroad
+which look pretty cool .
+There are a few secrets on this map which mainly involve the large
+tunnel system i made under the two bases .
+These tunnels lead to a large underground alien ship i made which
+has a lot of artefacts in it .
+***************************************************
+Installation .
+***************************************************
+Extract the files into Earth 2150 levels folder . 
+C:\Program Files\SSI\Earth 2150\Levels ( C: = Harddrive ) .
+***************************************************
+Feel free to contact me on my e-mail and if you find any problems
+please tell me . Comments welcome aswell .
+Well enjoy the map and hopefully i’ll have some more out soon .

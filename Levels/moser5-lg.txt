@@ -1,0 +1,9 @@
+Designer: Moser
+Name: Lovestern Galactica
+Spieler: 1-8
+Größe: extragroß
+Wasser: nein
+
+Beschreibung: 
+
+Eine Map für bis zu 8 Spieler, mit symetrischem Aufbau. Die größten Patches findet man in der Mitte, allerdings sind diese auch schwerer zu verteidigen. Expansion ist sehr wichtig, denn das Startfeld ist nicht besonders groß.

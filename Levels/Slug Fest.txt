@@ -1,0 +1,13 @@
+Name: Slug Fest
+Autor: Mr Evil
+Kartengröße: Extragroß
+Gelände: Schwierig
+Terrain: Wüste
+Schifffahrt: Nein
+Spieler: 6
+
+Trotz des Inselcharakters ist in dieser extragroßen Karte wegen den Steilen Küsten keine Schifffahrt möglich.
+Sämtliche inseln sind durch Landbrücken miteinander verbunden und Rohstoffe gibt es bei den Startpositionen und
+auf den anderen Inseln.
+
+Mr Evil

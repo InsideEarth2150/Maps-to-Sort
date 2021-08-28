@@ -1,0 +1,22 @@
+(13) Die ganze Welt [Skullar]
+
+Das hier ist ein Versuch, den Globus selbst als Spielwiese für den Kampf zu benutzen. Fragt mich nicht wie lange das Basteln gedauert hat, aber es war lang. Dummerweise ist die Erde kein sehr spielgerechtes Schlachtfeld. Gegenwärtig gibt es 13 Startpositionen.  Für die deaktivierte (zufällige Startpunkt)-Option (damit ihr auch da anfangt wo ihr wollt) hier die Liste :
+0 - Kanada
+1 - USA
+2 - Brasilien
+3 - Argentinien
+4 - Deutschland ( Europa ist klein , hab halt D gewählt )
+5 - Polen
+6 - UDSSR
+7 - China
+8 - Australien
+9 - Saudiarabien
+10 - Zaire
+11 - Südafrika
+12 - Israel
+
+Das ist erst meine zweite Karte, also seid nachsichtig mit mir.
+Die Karte wurde mit Hilfe der NEUTRAL GRID MAP erstellt, weshalb die Proportionen der Kontinente untereinander und ihre Lagen korrekt sind.
+Die Karte ist in Punkto Spielbarkeit noch nicht ausbalanciert , es wurden lediglich Rohstoffe in den Umgebungen der Startpunkte verteilt.
+
+Um sowohl Schnee- als auch Wüstengebieten Tribut zu zollen wurde das Setting "Frühlingsanfang" gewählt. Habt keine Hemmungen die Karte zu modifizieren oder mit konstruktiver Kritik aufzuwarten.

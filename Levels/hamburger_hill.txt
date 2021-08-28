@@ -1,0 +1,20 @@
+Name: Hamburger_hill - Earth2150 Map
+Author: Tictoc - (tictoc@freeuk.com)
+                 (icq 35523006)
+Map size: Huge
+Max Players: 4
+Completion Date: 22/11/00
+
+- Introduction -
+
+Hi guys.
+
+This map contains 4 raised points for which the players build on (or not). There are resources scattered around the map but you gotta look for them. The map is designed for either defence or attack (depending on your style). If each player builds on a raised point it gives the same advantage.
+
+Tic
+
+- Install
+Extract the file into your Earth2150\levels directory. If the folder "levels" does not exist then create it. Start the game as normal and it will be listed in the maps.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Earth Orbiter - http://everything.at/earth2150

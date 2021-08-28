@@ -1,0 +1,16 @@
+Autor:		Nasaforce
+erstellt am:	30.10.00
+Name:		New Wüste
+
+Terrain:	Wüste
+Spielerzahl:	4
+Grösse:		Mittel
+Schiffe:	nein
+Tunnel:		nein
+
+
+Eine Oase mitten in der Wüste. In manchen Zerstörten gebäude befinden sich Artefackte, links unten der Oase 
+sind auch Artefackte versteckt. Viele Ressourcen auf jeder seite doch der bau seiner station is begrennst.
+
+MFG
+Nasaforce

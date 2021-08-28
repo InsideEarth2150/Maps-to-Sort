@@ -1,0 +1,10 @@
+Autor:		Kak_igrat
+MapName:	Pogranichnaya
+
+Terrain:	grass/soil
+Player:		8
+Size:		Huge
+Ressourses:	Plentiful
+Ships:		no
+Tunnel:		possible
+

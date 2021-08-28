@@ -1,0 +1,16 @@
+HOW TO INSTALL MAPS IN EARTH 2150
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mini-Tutorial brought to you by Boogle Oogle
+and Ice Man from Earth Orbiter
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To install the map(s), make a folder in the Earth 2150 directory named "Levels" (without quotation marks). The Earth 2150 directory is usually located at: C:\Program Files\SSI\Earth 2150\.
+The zip file you download contains at least two files. The extensions on these files are .lnd and .mis. After unzipping them, cut and paste them into the "Levels" folder.
+You're done! Play the game!
+
+Thanks for reading - Boogle Oogle, Ice Man
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Visit Earth Orbiter at 
+http://www.earth-orbiter.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

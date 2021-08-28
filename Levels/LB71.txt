@@ -1,0 +1,35 @@
+Map Name - LUNAR BASE 71
+FOR: Earth 2150
+Players - 15
+Size - Huge	
+Tileset - Not sure what to call it... 
+Tunnel Layer - Yes
+Water - NONE
+Difficult terrian - Deep central gorge surrounding the base toasted base area
+Resources - Medium
+Need for expansion - Player's discretion
+
+Created by Chip
+
+---------------------
+
+----------------------
+SITUATION:  The Eagle Has Landed !  You have embarked on a quest to take Lunar Base Seven One and clear the surrounding area
+of ALL enemy forces.            
+
+ORDER OF BATTLE:  This is LC home turf, the Moon. Move forward toward the abandoned base area.  A single bridge will get 
+you accross the deep chasm that surrounds your objective.  Watch towers are accessible to your units, and may give you
+added visibility of the surrounding terrain. If the bridge somehow falls into enemy hands, or perhaps to strengthen your
+hold on the base, blow the bridge. Engineering assets will help you reconstruct the bridge AND give you access to the
+ underground layer where there is a prison complex FILLED with surprises(if you play on map default).
+
+NOTES:  Many of the features you see on this map will be explained in tutorials which I will post on my maps 
+web page.  See Earth Orbiter for the link. http://everything.at/earth2150
+
+----------------------
+Installation
+LB71_MAP contains .lnd/.mis files
+To install the map, put the .Ind and .mis files in the \earth2150\levels
+directory. You may have to create a levels directory in the earth2150 folder. 
+----------------------
+Comments or questions may be directed to Chip at dsa9@hotmail.com

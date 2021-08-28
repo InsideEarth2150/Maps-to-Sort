@@ -1,0 +1,44 @@
+(11) Europa
+-----------
+Eine aufwendige Karte von Europa !
+England und Frankreich sind mit Tunnel verbunden.
+Die großen Gebirge haben je 1-2 Pässe, die Start-
+positionen sind nicht allzu offen, so daß sie sich
+noch verteidigen lassen.  England hat 
+Brücke nach Irland , ebenso gibt es eine Brücke
+über die Meerenge bei Gibraltar, zwischen 
+Italien und Sizilien und zwischen Schweden und
+Finnland.
+Spanien kann auf dem Seeweg passiert werden,
+so daß man vom Mittelmeer bis zur Nordsee kommt.
+Die vielen Rohstoffe sind relativ gleichmäßig über
+die Karte verteilt, einige wenige Vorkommen sind
+nur für UCS-Flugernter oder LC-Minen erreichbar,
+wie z.B. auf Kreta.
+
+Es gibt 2 Europa-Karten : Eine normale und eine mit
+auf der Karte sichtbaren politischen Grenzen .
+Die politischen Grenzen bestehen aus Pfeilern, diese
+werden erst sichtbar, wenn sie einmal in Sichtweite
+gewesen sind. Es sind nur die Grenzen der vertretenen
+Nationen eingezeichnet.
+
+Hier die Startpositionen
+0 - England ( gute Startposition )
+1 - Deutschland ( relativ offen )
+2 - Frankreich 
+3 - Spanien
+4 - Italien ( im Norden Alpenpässe )
+5 - Griechenland ( relativ eng )
+6 - Polen ( recht frei )
+7 - Udssr ( weit ab vom Schuß ! )
+8 - Türkei ( schwierig da eng ! )
+9 - Schweden ( ebenso ! )
+10- Libyen ( ganz Nordafrika für sich , Landweg über
+    Gibraltar nach Spanien )
+
+Inhalt des Zip-Files :
+- 2 Europa-Maps
+- 11 Banner
+- 1 Bitmap von der Map
+- dieses TXT-File

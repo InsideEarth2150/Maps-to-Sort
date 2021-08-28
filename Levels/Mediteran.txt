@@ -1,0 +1,19 @@
+Mediteran
+--------------------
+
+Gemacht von: TankCom
+Erstellt am: 17.11.1999
+Version: 1.8
+Spieler: 2-4
+Kartengröße: Mittel
+
+Beschreibung: Diese Karte erinnert mich irgend wie
+              an einen Sommer-Urlaub am Mittelmeer.
+              Laßt euch beim Siegen nicht von der
+              schönen Landschaft ablenken !
+
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+
+--------------------
+Please do not modify or remove this readme-file! Thanks!

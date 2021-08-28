@@ -1,0 +1,28 @@
+Name: The Desert Fox - Earth2150 Map
+Author: Captain Lou - (captainlou@Home.com)
+URL: /
+Map size: Huge
+Max Players: 6
+Completion Date: 07/11/2000
+
+- Introduction
+
+Another BIG map. 6 Up to six players
+
+ 
+ Please: DISTRIBUTE FREELY!
+
+- Description
+
+ Air land and Sea can dominate. Players start with small resource patches in their base, and the larger ones are placed around. All the secondary resource patches can be accessed from land or sea or Air, so resource raiding is important.
+
+Maybe too much resources but hey feedback is welcome 
+
+
+- Install
+just extract into your Earth 2150/levels/ directory and you should be good to go. In the game it should appear on your list as (4) Islands 
+
+ENJOY!
+-Captain Lou
+
+Any map makers that like texturing? I am interested in building the map with someone that loves to paint the terrain by hand. I tend to get lazy and seed the map randomly and then fix area that i don't think make sense. Email if youre interested.

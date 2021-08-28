@@ -1,0 +1,22 @@
+Levelname: *( 8)Soul05*
+
+Oberflächentyp: Sommer
+Größe: extragroß
+Rohstoffe: 1.656.250
+Schiffe: ja
+Spielerzahl: 8
+
+
+Jeder Startpunkt ist sowohl auf dem Land-als auch auf dem Seeweg erreichbar. 
+Wer auf Schiffe bzw. Amphibien setzt, kann sich nen Vorteil erarbeiten.
+
+
+Die beiden Dateien einach ins Levels-Verzeichnis kopieren.
+Standardmäßig in C:\Programme\Topware\Earth2150\Levels
+
+Viel Spaß damit!
+
+[UEF]SoulReaver     
+
+
+P.S.: Diese Karte darf für den privaten Gebrauch frei kopiert oder veröffentlicht werden.

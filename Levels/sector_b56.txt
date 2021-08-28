@@ -1,0 +1,17 @@
+Map Specifications and Author Details .
+***************************************************
+Name : Sector B56	    
+Author : Dhakra                 
+E-mail : earth2150@dhakra.cz
+Map Size : Huge
+Max Players : 4
+Completion Date : 03/2002
+***************************************************
+Zip file contains : sector_b56.lnd
+                    sector_b56.mis
+                    sector_b56.txt
+                    sector_b56-map.gif
+***************************************************
+Installation:
+Extract the files into Earth 2150 levels folder. 
+***************************************************

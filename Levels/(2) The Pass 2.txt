@@ -1,0 +1,28 @@
+Name: The Desert Fox - Earth2150 Map
+Author: Captain Lou - (captainlou@Home.com)
+URL: /
+Map size: medium
+Max Players: 2
+Completion Date: 07/11/2000
+
+- Introduction
+
+Medium map that plays like its HUGE!  Any Total Annihilaiton fans will recognize this map layout. From the classsic "The PAss" in the game Total annihilation
+
+ 
+ Please: DISTRIBUTE FREELY!
+
+- Description
+
+ 2 playes start off in opposite corners, then must fight though a winding maze to get to each others bases.
+
+Maybe too much resources but hey feedback is welcome 
+
+
+- Install
+just extract into your Earth 2150/levels/ directory and you should be good to go. In the game it should appear on your list as (4) Islands 
+
+ENJOY!
+-Captain Lou
+
+Any map makers that like texturing? I am interested in building the map with someone that loves to paint the terrain by hand. I tend to get lazy and seed the map randomly and then fix area that i don't think make sense. Email if youre interested.

@@ -1,0 +1,10 @@
+Autor:		Kak_igrat
+MapName:	Face to face
+
+Terrain:	grass/soil
+Player:		4
+Size:		Medium
+Ressourses:	much
+Ships:		no
+Tunnel:		no
+

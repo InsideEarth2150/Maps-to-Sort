@@ -1,0 +1,17 @@
+Name:		Die letzte Oase
+Terrain:	Wüste
+Spielerzahl:	4
+Grösse:		gross
+Ressourcen:	1281250
+Schiffe:	ja
+
+Es gibt für jeden ein ausreichendes Ressourcenfeld am Startpunkt und jeweils eins in der Nähe, die 
+restlichen sind in der Nähe der Wasserstelle in der Mitte. Die einzigen Hindernisse auf dieser Map
+sind ein paar Baumgruppen, die Flussläufe sind passierbar, ansonsten hat man freies Schlachtfeld zum 
+Gegner, Verteidigungsspezialisten sind gefragt.
+
+
+Viel Spass ...
+
+Bye
+Kurgan

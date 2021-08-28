@@ -1,0 +1,2 @@
+Aby Zagraæ w planszê, nale¿y w katalogu gry utworzyæ katalog "levels", a nastêpnie pliki zawarte w tym zipie rozpakowaæ do niego.
+Mapê stworzy³ BillTheBaka

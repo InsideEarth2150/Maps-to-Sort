@@ -1,0 +1,13 @@
+Karte: Dark Funeral
+Autor: Mr Evil
+Spieler: 12
+Typ: Wüste
+Resourcen: geht so
+schwieriges Gelände: viel
+
+Text: Extragroße 12-Spieler Karte in der Wüste. Alle Spieler beginnen am Rand der Karte mit einigen Rohstoffen. 
+      In der Mitte der Karte ist eine große Tempelanlage mit weiteren Rohstoffen. Es gibt zu jedem Spieler nur einen Zugang,
+      der logischerweise stark zu bewachen ist. Auserhalb des Eingangs befinden sich noche eingige Resourcen, die aber schwer zu
+      besetzen sind, da jeweils 3 Zugänge zu einem Rohstofffeld führen.
+
+Mr Evil  	

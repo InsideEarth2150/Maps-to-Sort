@@ -1,0 +1,17 @@
+After Conflict
+--------------------
+
+Gemacht von: TankCom
+Erstellt am: 20.11.1999
+Version: 2.0
+Spieler: 2-4
+Kartengröße: Mittel
+
+Beschreibung: Diese Karte stellt eine nachkriegszeitlich Ägyptische Landschaft dar,
+	      mit ein paar Extras !
+
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+
+--------------------
+Please do not modify or remove this readme-file! Thanks!

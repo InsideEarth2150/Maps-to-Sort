@@ -1,0 +1,11 @@
+1.
+  W³¹cz kolejne foldery: C:\Programy Files\TopWare\The Moon Project\Levels
+  lub C:\Programy Files\TopWear\Earth 2150\Levels
+
+ - Gdy niema folderu "Levels" utwórz go
+
+2.
+  Wklej tam dwa rozpakowane pliki: pn_zach_archipelag.mis, pn_zach_archipelag.Ind
+
+3.
+  Odpal grê i rozwal wroga! W planszy dla piêciu graczy.

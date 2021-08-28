@@ -1,0 +1,19 @@
+Levelname: *( 8)Soul04*
+
+Oberflächentyp: Frühling
+Größe: groß
+Rohstoffe: 2.689.750
+Schiffe: ja
+Spielerzahl: 8
+
+Schöne Team-Map für 3vs3 oder 4vs4. Ein paar Flüsse mit Brücken teilen die Map in mehrere Abschnitte. 
+Rohstoffe sind ausreichend vorhanden. In der Nähe jedes Startpunktes sind weitere Vorkommen.
+
+Die beiden Dateien einach ins Levels-Verzeichnis kopieren.
+Standardmäßig in C:\Programme\Topware\Earth2150\Levels
+
+Viel Spaß damit!
+
+[UEF]SoulReaver     
+
+P.S.: Diese Karte darf für den privaten Gebrauch frei kopiert oder veröffentlicht werden.

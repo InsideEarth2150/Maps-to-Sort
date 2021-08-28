@@ -1,0 +1,15 @@
+Kysylkum - Tschorny Subbotnik
+-----------------------------
+Spiel: Moon Project
+Erstellt: Eismann, 7.11.2000
+Spieler: 2-5
+Kartengroesse: Extra Groﬂ 
+Karte:	Wuestengebirge und Wasser. 
+	zum ueben im skirmish/tech-war
+	mode gegen den Computer. Geeignet
+	fuer Massenschlachten und 
+	atomaren Schlagabtausch.
+Hinweis: Nicht vergessen, die
+	 Units-Beschr‰nkung 
+	 rauszunehmen ;-))
+

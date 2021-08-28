@@ -1,0 +1,36 @@
+Mesa Verde 1.2
+
+Autor:
+	Dietfrid Mali (Diedel)
+	Dietfrid.Mali@PTV.de
+
+Daten:
+    Karte für The Moon Project (TMP), mittelgroß, Frühling, asymmetrisch, 4 Spieler,
+    926250 (Editor-Angabe) gleichmäßig verteilte Rohstoffe mit je 1 Schwerpunkt pro
+    Startposition, gut bebaubar (kein Sand, keine Bodenwellen).
+
+Beschreibung:
+    Die Map ist nach einen TA-Vorbild entstanden (Cliffs Of Dover von C_A_P). Sie besteht
+    aus mehreren Hochplateaus mit (nicht zu schmalen) Canyons. In die Hochplateaus sind
+    weite Täler eingebettet. Zu jedem Plateau gibt es 2 - 3 Zugänge.
+    
+    Für zusätzliche taktische Möglichkeiten ist die Karte komplett untertunnelt.
+    
+    Die Karte ist als Team-Karte 2vs2 gedacht. Zwei Spieler starten in einem Hochplateau,
+    zwei in den Canyons. Jeder Spieler hat ein größeres Erzvorkommen direkt am Startpunkt,
+    zwei kleinere etwas weiter entfernt, noch zwei in größerer Entfernung. Zwei Erzvorkommen
+    in der Kartenmitte gehören dem, der sie sich als erster nimmt ...
+    
+Expansion:
+	Zwingend nötig.
+	
+Updates:
+	v1.1: Minimale Korrektur des Erzvorkommens mitte unten.
+	v1.2: Tunnels eingebaut.
+
+Installation:
+    Mesa Verde.lnd und Mesa Verde.mis in Unterverzeichnis "levels" der TMP-Installation
+    kopieren (z.B. "c:\programme\topware\the moon project\levels"). Verzeichnis ggf. neu
+    anlegen.
+
+[Textende]

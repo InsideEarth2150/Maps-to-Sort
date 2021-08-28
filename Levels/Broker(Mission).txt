@@ -1,0 +1,17 @@
+Broker(Mission)
+--------------------
+
+Gemacht von: TankCom
+Erstellt am: 02.03.2000
+Version: 1.5
+Spieler: 2
+Kartengröße: Extra Groß 
+
+Beschreibung: Eine Mission auf in einer hübschen Winterlandschaft, sie müsssen 5 ED Basen
+	      platt machen , etc. , macht extrem Laune ! (Kartenvorgabe benutzen und Player 2 nehmen)
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+CTN-Gamelinks ( http://www.ctn-gamelinks.de/ )
+
+--------------------
+Please do not modify or remove this readme-file! Thanks!

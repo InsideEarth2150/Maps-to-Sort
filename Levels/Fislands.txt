@@ -1,0 +1,80 @@
+================================================================
+Title                          :  Four Islands
+
+Filenames                 :  Fislands.lnd
+                                     Fislands.mis
+
+Author                      :  Adrian Messecar
+Email Address         :  aia96@jps.net                   
+WWW Address       :  www.jps.net/aia96
+
+Description              :  Since in most maps the UCS and ED navies are useless or
+                                      not as useful as ground and air forces for the amount of
+                                      credits expended, I made a map where building navies
+                                      would be worthwhile.  The map is mostly water with four
+                                      unconnected islands with most of the land area within range
+                                      of ships' weapons (rockets). 
+			 
+ 	  
+	 
+			  
+================================================================
+
+* Play Information *
+
+Game                                            : Earth 2150
+Single Player                                : No  
+Skirmish & Multiplayer             : Yes, up to 4
+New Sounds                                : No
+New Graphics                             : No
+New Music                                  : No
+
+===============================================================
+ 
+			     
+Previous levels by me   :  4 Tiberian Sun levels (single player):
+
+                          NLakeB.zip - Neutralize Lakeside Bases
+                          LibNT.zip - Liberate Neutral Territory
+                          Fortress.zip - Fortress
+                          Aassault.zip - Amphibious Assault                    
+
+
+                          5 Duke Nukem 3D levels:
+
+		 1st 2 levels : aigbsc.zip - aigbase.map
+                                		                    - aiscraft.map
+		                      alien infiltration ground base and
+		                      alien infiltration space craft
+	                            (can be played as a 2 level episode or separately)
+		 3rd level : dvsaab.zip - dvsaab.map
+		                   duke verses alien army base
+		  4th level : dvsdemon.zip - dvsdemon.map
+		                   duke verses demon from hell and his army
+		  5th level : apcomplx.zip - apcomplx.map
+		                   duke lands on alien planet and invades
+		                   alien complex
+
+	  1 Quake level:
+
+		 tmprokbc.zip - tmprokbc.bsp
+		     temple and rocket base complex
+ 
+	  1 Unreal level:
+
+		  Sinvssc.zip - Skaarj invasion support
+		     spacecraft
+
+===============================================================
+
+* To Play:
+
+       Unzip or copy files to Levels directory in Earth 2150 directory
+       (with default install:  C:\Program Files\Ssi\Earth 2150\Levels)
+       and the map will show up in the list of levels when you play
+       skirmish or multiplayer.
+
+     
+	
+
+

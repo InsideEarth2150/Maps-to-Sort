@@ -1,0 +1,18 @@
+Highway Heat
+--------------------
+
+Gemacht von: TankCom
+Erstellt am: 11.12.1999
+Version: 1.0
+Spieler: 2-4
+Kartengröße: Mittel
+
+Beschreibung: Ein Highway halbiert die Karte auf 4 Spieler mit
+              ausgewogenen Startbedingungen in einer Hübschen 
+              Landschaft mit ca. 800000 Credits spielen können.
+
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+
+--------------------
+Please do not modify or remove this readme-file! Thanks!

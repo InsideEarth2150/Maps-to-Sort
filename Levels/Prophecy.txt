@@ -1,0 +1,35 @@
+===== PROPHECY =====
+
+Hi!
+
+Die Karte ist multiplayererprobt und hat sich für alle Parteien als recht fair erwiesen. Die Startpunkte sind ebenfalls ziemlich gleichwertig. Bei meinen Tests hatten die Computerspieler keine großen Probleme mit der Map.
+
+
+Kartenname: 	( 7) Prophecy
+Oberflächentyp:	Sommer
+Größe:		Groß
+Rohstoffe:	2.446.500
+Schifffahrt:	ja
+Startpunkte:	7
+ED geeignet:	ja (Rohstoffe gut erreichbar; Wolga kann hier auftrumpfen :)
+Artefakte:	nein
+
+
+Tip: Tunnelsystem beachten; kann hilfreich sein.
+
+
+Die Dateien einach ins Levels-Verzeichnis kopieren.
+Standardmäßig in C:\Programme\Topware\Earth2150\Levels.
+
+
+Viel Spaß,
+
+Lennier
+(LennierDK)
+
+
+P. S.: Bitte keine Veränderungen an der Karte oder dieser Textdatei vornehmen.
+
+
+
+2000-06-20

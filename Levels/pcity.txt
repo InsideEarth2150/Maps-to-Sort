@@ -1,0 +1,17 @@
+Autor:		Kurgan
+erstellt am:	11.10.00
+Name:		Paradise City
+
+Terrain:	Frühling
+Spielerzahl:	10
+Grösse:		extragross
+Ressourcen:	10,7 Mill.
+Schiffe:	nein
+Tunnel:		ja
+
+
+Wieder eine Map mit absolut gleichen Parametern für jeden Spieler. Jeder startet am Rand der Karte.
+Es gibt relativ viele Ressourcen mit guten Defensemöglichen. Die Tempelplattform in der Mitte ist gross genug für 4 Spieler und beherbergt 4 Patches als Bonus.
+
+Gruss
+Kurgan

@@ -1,0 +1,12 @@
+Name:		Battlefield Romania
+Terrain:	Vulkan
+Spielerzahl:	3
+Grösse:		mittel
+Ressourcen:	1206406
+Schiffe:	nein
+
+
+Es gibt 3 Felder für jeden Spieler und jede Basis ist jeweils von 3 Seiten zugänglich, man ist also vor niemandem sicher :).
+
+Viel Spass !
+Kurgan

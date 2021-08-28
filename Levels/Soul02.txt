@@ -1,0 +1,16 @@
+Levelname: ( 8)Soul02
+Oberflächentyp: Frühling
+Größe: Groß
+Rohstoffe: 2.037.500
+Schiffe: nein
+Spielerzahl: 8
+
+Massig Rohstoffe und recht fair, auch für ED :)
+
+Die beiden Dateien einach ins Levels-Verzeichnis kopieren.
+Standardmäßig in C:\Programme\Topware\Earth2150\Levels
+
+Viel Spaß damit!
+
+
+[UEF]SoulReaver

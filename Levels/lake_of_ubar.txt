@@ -1,0 +1,17 @@
+Map Specifications and Author Details .
+***************************************************
+Name : Lake of Ubar	    
+Author : Dhakra                 
+E-mail : earth2150@dhakra.cz
+Map Size : Huge
+Max Players : 7
+Completion Date : 04/2002
+***************************************************
+Zip file contains : lake_of_ubar.lnd
+                    lake_of_ubar.mis
+                    lake_of_ubar.txt
+                    lake_of_ubar-map.gif
+***************************************************
+Installation:
+Extract the files into Earth 2150 levels folder. 
+***************************************************

@@ -1,0 +1,21 @@
+Levelname: ( 4)World_Scandinavia Version 1.1
+
+Oberflächentyp: Winter
+Größe: Mittel
+Rohstoffe: 720000
+Schiffe: ja
+Spieler: 4
+
+Bei Teammatches ist es gut, wenn Team A die Startpositionen 1 und 2 nimmt, 
+Team B 3 und 4.
+Freut euch auf geile Seeschlachten!!
+
+Die beiden Dateien einach ins Levels-Verzeichnis kopieren.
+Standardmäßig in C:\Programme\Topware\Earth2150\Levels
+
+Viel Spaß damit und viel Erfolg beim Weltherrschaftsmodus!
+
+
+[UEF]SoulReaver
+
+P.S. Ich bin damit einverstanden, daß diese Map frei veröffentlicht wird.

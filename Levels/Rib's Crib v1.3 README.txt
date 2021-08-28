@@ -1,0 +1,31 @@
+Rib's Crib v1.3
+
+__________________________________________________
+Latest additions:  Formatted README, revisions on 
+creek, and modification of resource fields.  They 
+are now P.C., & unfortunately a bit smaller.  I 
+recommend setting resources higher than normal.  
+--------------------------------------------------
+Well, modifications include improved creek (bridges 
+are the only throughpoints), ornamentation, and 3D-
+ishness.  Also, each side is more varied as far as 
+balance.  Resources are the same, and this map 
+isn't playtested enough.
+
+--------------------------------------------------
+This is a North-South game with limited space. 
+Designed for rushing.  Resource Fields are on the
+left and right in addition to the center starting 
+point.  The gamble is to prepare bases that can 
+gather resources, or prepare early for a rush.  
+Be advised that there is a small pass in the 
+middle of the map, so the bridges are not the 
+only access points to the other side.  Crater on 
+the North side is intended for the Lunar 
+Corporation, as they have landed on the field and 
+prepare to sweep the South.  No tunnels, and 
+simple ground layout.  
+Get them before they get you.
+
+
+R.B.

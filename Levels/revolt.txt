@@ -1,0 +1,12 @@
+Levelname: Revolt
+Autor: Mr Evil
+Kartengrˆﬂe: Extragroﬂ
+Spieler: 8
+Gel‰nde: schwierig
+Terrain: Sommer
+Rohstoffe: viel
+
+Extragroﬂe Karte ohne Wasser mit vielen Gebirgen. Es gibt nur einen Zugang zu jedem Spieler dirch eine Schlucht.
+Rohstoffe befinden sich an den Startpositionen und den Hochebenen.
+
+Mr Evil 

@@ -1,0 +1,18 @@
+War Islands
+--------------------
+
+Gemacht von: TankCom
+Erstellt am: 24.12.1999
+Version: 1.1
+Spieler: 2-6
+Kartengrˆﬂe: Groﬂ 
+
+Beschreibung: Diese Map stellt ein Kriegs-Szenario am Fuﬂe eines Vulkans dar.
+	      Und macht mit sechs Gegnern einen heiden, Spass also rann an die
+	      Buletten !
+
+Heruntergeladen von:
+FinalEarth ( http://www.final-earth.purespace.de/ )
+E-Mail     ( earth-2150@gmx.de )
+--------------------
+Please do not modify or remove this readme-file! Thanks!

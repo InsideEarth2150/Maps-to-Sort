@@ -1,0 +1,17 @@
+Map Specifications and Author Details .
+***************************************************
+Name : Desert Domination	    
+Author : Dhakra                 
+E-mail : earth2150@dhakra.cz
+Map Size : Large
+Max Players : 7
+Completion Date : 03/2002
+***************************************************
+Zip file contains : desertdom.lnd
+                    desertdom.mis
+                    desertdom.txt
+                    desertdom-map.gif
+***************************************************
+Installation:
+Extract the files into Earth 2150 levels folder. 
+***************************************************

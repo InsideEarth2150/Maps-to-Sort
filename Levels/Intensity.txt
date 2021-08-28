@@ -1,0 +1,15 @@
+(10) Intensity [Nature]
+-----------------------
+
+A ten player map designed for 
+intense 5v5 battles.  Resources in 
+the starting points are fairly 
+limited, so early expansion must 
+be considered a must.  Resource 
+fields outwith the starting zones 
+are very much exposed, so expansions 
+will be difficult to defend.
+
+Size: Huge  
+Tunnels: No 
+Author: NatureX 
